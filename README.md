@@ -1,1 +1,6 @@
-# Accordion menu with HTML and CSS
+# Accordion menu
+
+- [ Demo ]()
+
+## License
+Este projeto está licenciado sob a MIT License.
