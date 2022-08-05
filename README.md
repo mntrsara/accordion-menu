@@ -8,7 +8,7 @@
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd rocket_help
+$ git clone your-fork-url && cd accordion-menu
 # Create a branch with your feature
 $ git checkout -b feature
 # Make the commit with your changes
