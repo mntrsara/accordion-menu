@@ -3,4 +3,4 @@
 - [ Demo ]()
 
 ## License
-Este projeto está licenciado sob a MIT License.
+This project is licensed under the MIT License.
